@@ -20,7 +20,7 @@
 
 ## Дополнительные материалы:
 
-[Образец резюме](resourses/hw1-1.pdf)
+[Образец резюме](https://github.com/Irina-64/html-homeworks/blob/master/base-html/resourses/hw1-1.pdf)
 
 ## Процесс реализации
 
